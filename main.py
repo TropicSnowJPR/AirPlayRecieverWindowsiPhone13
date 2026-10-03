@@ -4,7 +4,6 @@ import subprocess
 import sys
 import threading
 import shutil
-import time
 
 from PySide6.QtCore import Qt, Signal, QObject
 from PySide6.QtGui import QImage, QPainter, QPainterPath, QPixmap
